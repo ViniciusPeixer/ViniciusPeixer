@@ -7,6 +7,10 @@ Olá! Eu sou Vinícius Peixer Vicente, atualmente tenho 16 anos. E estou cursand
 
 ![My Skills](https://skillicons.dev/icons?i=java,js,html,css,vscode,git,github,arduino)
 
+## 📂 Projetos em destaque 
+
+- [📌 Projeto Beyond The Walls](#) – Um jogo em desenvolvimento pelo Gamemaker  
+
 ## 🌎 Connect with me
 <p align="center">
   <a href="mailto:vinicius.peixer.vicente@gmail.com">
